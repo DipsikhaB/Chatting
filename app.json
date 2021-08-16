@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "chat",
-    "slug": "chat",
+    "name": "Real Chat",
+    "slug": "Real Chat",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
