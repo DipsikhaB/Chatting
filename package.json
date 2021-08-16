@@ -8,7 +8,7 @@
     "web": "expo start --web",
     "eject": "expo eject",
     "build": "echo 'build script executed'",
-    "deploy": "web-build" 
+    "deploy": "_site" 
   },
   "dependencies": {
     "@expo/vector-icons": "^12.0.5",
